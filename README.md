@@ -20,8 +20,8 @@ React.js
 
 Database:
 MySQL (untuk menyimpan data pengguna, kuis, dan progres)
-Dev Tools:
 
+Dev Tools:
 Nodemon (untuk development environment)
 Postman (untuk testing API)
 Instalasi
@@ -31,8 +31,8 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di lokal Anda.
 Clone repository ini ke mesin lokal Anda:
 
 ```bash
-git clone https://github.com/username/ruangbelajar.git
-cd ruangbelajar
+git clone https://github.com/Diovalda22/ruangbelajar-api.git
+cd ruangbelajar-api
 ```
 
 2. Install Dependencies
