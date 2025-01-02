@@ -10,9 +10,13 @@ Teknologi yang Digunakan
 
 Backend:
 Node.js
+
 Express.js
+
 Prisma (untuk ORM dengan MySQL)
+
 JWT (JSON Web Token) untuk autentikasi
+
 Bcryptjs untuk enkripsi password'
 
 Frontend:
